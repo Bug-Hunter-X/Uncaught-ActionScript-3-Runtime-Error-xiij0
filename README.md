@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon ActionScript 3 error where a runtime error occurs unexpectedly, evading standard try...catch blocks. The `AS3Bug.as` file contains the problematic code, while `AS3BugSolution.as` provides a solution using a more robust error-handling approach.
